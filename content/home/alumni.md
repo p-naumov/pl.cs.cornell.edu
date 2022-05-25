@@ -435,8 +435,8 @@ title = "Alumni"
 [[people]]
   name = "Pavel Naumov"
   grad_year = "1998"
-  org = "Claremont McKenna College"
-  www = "https://pavelnaumov.com/biography"
+  org = "University of Southampton"
+  www = "https://pavelnaumov.com"
 
 [[people]]
   name = "Aswin van den Berg"
